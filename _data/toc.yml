@@ -1,12 +1,9 @@
-# Requirement
 - title: "Overview"
   children:
     - title: Beranda
-      url: ""
+      url: "agenda"
 - title: "Requirement"
-  children:
-    - title: Beranda
-      url: ""
+  url: "agenda"
 - title: "Installation"
   children:
     - title: Beranda
@@ -16,6 +13,9 @@
     - title: Beranda
       url: ""
 - title: "Troubleshooting"
+  url: "trb"
   children:
-    - title: Beranda
-      url: ""
+    - title: Optimisasi Aplikasi/ Mode Hemat Daya
+      url: "trb-optimisasi"
+    - title: Lokasi
+      url: "trb-lokasi"
